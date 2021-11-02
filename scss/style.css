@@ -797,6 +797,10 @@ header {
     max-width: 100%; }
 
   .request .request__container .request__box button::before {
-    right: 60px; } }
+    right: 60px; }
+
+  .prices .prices__box .prices__intro .prices__buttons .prices__btn-pricesecond,
+  .prices .prices__box .prices__intro .prices__buttons .prices__btn-priceit {
+    font-size: 10px; } }
 
 /*# sourceMappingURL=style.css.map */
